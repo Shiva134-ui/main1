@@ -1,0 +1,22 @@
+{
+    "Websites": [
+        {
+            "id": 1,
+            "title": "The Boys",
+            "image": "img/the boys.jpg",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "title": "Stranger Things",
+            "image": "img/stranger_things.jpg",
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "title": "Breaking Bad",
+            "image": "img/breaking_bad.jpg",
+            "link": "#"
+        }
+    ]
+}
