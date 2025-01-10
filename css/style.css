@@ -346,6 +346,28 @@ header .main .main-footer{
 
 
 /* -------------------------Note-pad------------------------------------ */
+/* Other general styles */
+body {
+  background-color: white;
+  color: black;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
+
+/* Forced Colors Mode Styles */
+@media (forced-colors: active) {
+  body {
+    background-color: Canvas;
+    color: CanvasText;
+  }
+  button {
+    background-color: Highlight;
+    color: HighlightText;
+  }
+}
 
 
 
